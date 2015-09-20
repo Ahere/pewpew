@@ -1,0 +1,40 @@
+Project Description.
+ Basically where you set out your goal.where you layout the bbasic concept for the game we are to make.
+
+Lerning Objectives:
+ Intro to File management and assets
+ Intro to gam scripting
+ Intro to GI elements
+ Intro to Input
+ Intro to Events
+ Intro to Scene Leading
+
+ Production Time
+  Setup 	10 	mins
+  Assets	45	mins
+  Player	30	mins
+  Enemy		20	mins
+  Menus		40	mins
+  GUI 		30	mins
+  Build		10	mins
+  Review	10	mins
+
+High Concept:
+ A space shooter where the player must avoid asteroids that try to destroy the shop.
+ Score as many points as you can by shooting the asteroids in a ggiven amount of time
+
+Controls
+ Arrow keys move the player ship.(UP, DOWN RIGHT, LEFT)
+ Space bar shoots the players weapon
+ C creates a temporary sheild for protection
+
+Mockup Assets
+ ship
+ Asteroids
+ Bullets
+ Sheild
+ Blocks
+ Explosion
+
+(Note : Each Asset will need support files as materials, audio, scripts etc.
+there will be discussed during production.)
